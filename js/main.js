@@ -3,7 +3,7 @@
   createApp({
     data() {
       return {
-        message: 'Hello Vue!'
+        message: 'Benvenuto dal Team di Boolean'
       }
     }
   }).mount('#app')
